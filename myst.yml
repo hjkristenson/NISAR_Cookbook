@@ -35,6 +35,7 @@ project:
       - title: GCOV Backscatter Tutorials
         children:
           - file: notebooks/NISAR_GCOV_Time_Series_Example.ipynb
+          - file: notebooks/NISAR_GCOV_SARChangeDetectionMethods.ipynb
       - title: GCOV PolSAR Tutorials
     - title: RSLC
     - title: GSLC
