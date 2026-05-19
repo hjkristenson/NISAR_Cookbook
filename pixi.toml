@@ -12,6 +12,7 @@ mystmd = ">=1.6.4,<2"
 jupyterlab = ">=4.4.10,<5"
 jupyterlab-myst = ">=2.4.2,<3"
 ipykernel = ">=7.1.0,<8"
+ipyfilechooser = ">=0.6.0,<0.7"
 
 [feature.isce3.dependencies]
 isce3 = ">=0.24.4,<0.25"
@@ -36,6 +37,7 @@ python = "==3.13"
 h5netcdf = ">=1.8.1,<2"
 zarr = ">=3.1.5,<4"
 folium = ">=0.20.0,<0.21"
+ipyfilechooser = ">=0.6.0,<0.7"
 
 [environments]
 default = ["base"]
